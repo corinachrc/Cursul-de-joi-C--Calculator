@@ -1,0 +1,63 @@
+D:\Stefan\ThursdayCourse\Calculator\Calculator\bin\Debug\net7.0-windows\Calculator.exe
+D:\Stefan\ThursdayCourse\Calculator\Calculator\bin\Debug\net7.0-windows\Calculator.deps.json
+D:\Stefan\ThursdayCourse\Calculator\Calculator\bin\Debug\net7.0-windows\Calculator.runtimeconfig.json
+D:\Stefan\ThursdayCourse\Calculator\Calculator\bin\Debug\net7.0-windows\Calculator.dll
+D:\Stefan\ThursdayCourse\Calculator\Calculator\bin\Debug\net7.0-windows\Calculator.pdb
+D:\Stefan\ThursdayCourse\Calculator\Calculator\obj\Debug\net7.0-windows\Calculator.csproj.AssemblyReference.cache
+D:\Stefan\ThursdayCourse\Calculator\Calculator\obj\Debug\net7.0-windows\MainWindow.g.cs
+D:\Stefan\ThursdayCourse\Calculator\Calculator\obj\Debug\net7.0-windows\App.g.cs
+D:\Stefan\ThursdayCourse\Calculator\Calculator\obj\Debug\net7.0-windows\Calculator_MarkupCompile.cache
+D:\Stefan\ThursdayCourse\Calculator\Calculator\obj\Debug\net7.0-windows\Calculator_MarkupCompile.lref
+D:\Stefan\ThursdayCourse\Calculator\Calculator\obj\Debug\net7.0-windows\MainWindow.baml
+D:\Stefan\ThursdayCourse\Calculator\Calculator\obj\Debug\net7.0-windows\Calculator.g.resources
+D:\Stefan\ThursdayCourse\Calculator\Calculator\obj\Debug\net7.0-windows\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Stefan\ThursdayCourse\Calculator\Calculator\obj\Debug\net7.0-windows\Calculator.AssemblyInfoInputs.cache
+D:\Stefan\ThursdayCourse\Calculator\Calculator\obj\Debug\net7.0-windows\Calculator.AssemblyInfo.cs
+D:\Stefan\ThursdayCourse\Calculator\Calculator\obj\Debug\net7.0-windows\Calculator.csproj.CoreCompileInputs.cache
+D:\Stefan\ThursdayCourse\Calculator\Calculator\obj\Debug\net7.0-windows\Calculator.dll
+D:\Stefan\ThursdayCourse\Calculator\Calculator\obj\Debug\net7.0-windows\refint\Calculator.dll
+D:\Stefan\ThursdayCourse\Calculator\Calculator\obj\Debug\net7.0-windows\Calculator.pdb
+D:\Stefan\ThursdayCourse\Calculator\Calculator\obj\Debug\net7.0-windows\Calculator.genruntimeconfig.cache
+D:\Stefan\ThursdayCourse\Calculator\Calculator\obj\Debug\net7.0-windows\ref\Calculator.dll
+C:\Facultate\C#\semestrul II\OneDrive_1_5-19-2023\Calculator\Calculator\obj\Debug\net7.0-windows\Calculator.csproj.AssemblyReference.cache
+C:\Facultate\C#\semestrul II\OneDrive_1_5-19-2023\Calculator\Calculator\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Facultate\C#\semestrul II\OneDrive_1_5-19-2023\Calculator\Calculator\obj\Debug\net7.0-windows\App.g.cs
+C:\Facultate\C#\semestrul II\OneDrive_1_5-19-2023\Calculator\Calculator\obj\Debug\net7.0-windows\Calculator_MarkupCompile.cache
+C:\Facultate\C#\semestrul II\OneDrive_1_5-19-2023\Calculator\Calculator\obj\Debug\net7.0-windows\Calculator_MarkupCompile.lref
+C:\Facultate\C#\semestrul II\OneDrive_1_5-19-2023\Calculator\Calculator\obj\Debug\net7.0-windows\Calculator.dll
+C:\Facultate\C#\semestrul II\OneDrive_1_5-19-2023\Calculator\Calculator\obj\Debug\net7.0-windows\refint\Calculator.dll
+C:\Facultate\C#\semestrul II\OneDrive_1_5-19-2023\Calculator\Calculator\obj\Debug\net7.0-windows\Calculator.pdb
+C:\Facultate\C#\semestrul II\OneDrive_1_5-19-2023\Calculator\Calculator\bin\Debug\net7.0-windows\Calculator.exe
+C:\Facultate\C#\semestrul II\OneDrive_1_5-19-2023\Calculator\Calculator\bin\Debug\net7.0-windows\Calculator.deps.json
+C:\Facultate\C#\semestrul II\OneDrive_1_5-19-2023\Calculator\Calculator\bin\Debug\net7.0-windows\Calculator.runtimeconfig.json
+C:\Facultate\C#\semestrul II\OneDrive_1_5-19-2023\Calculator\Calculator\bin\Debug\net7.0-windows\Calculator.dll
+C:\Facultate\C#\semestrul II\OneDrive_1_5-19-2023\Calculator\Calculator\bin\Debug\net7.0-windows\Calculator.pdb
+C:\Facultate\C#\semestrul II\OneDrive_1_5-19-2023\Calculator\Calculator\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Facultate\C#\semestrul II\OneDrive_1_5-19-2023\Calculator\Calculator\obj\Debug\net7.0-windows\Calculator.g.resources
+C:\Facultate\C#\semestrul II\OneDrive_1_5-19-2023\Calculator\Calculator\obj\Debug\net7.0-windows\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Facultate\C#\semestrul II\OneDrive_1_5-19-2023\Calculator\Calculator\obj\Debug\net7.0-windows\Calculator.AssemblyInfoInputs.cache
+C:\Facultate\C#\semestrul II\OneDrive_1_5-19-2023\Calculator\Calculator\obj\Debug\net7.0-windows\Calculator.AssemblyInfo.cs
+C:\Facultate\C#\semestrul II\OneDrive_1_5-19-2023\Calculator\Calculator\obj\Debug\net7.0-windows\Calculator.csproj.CoreCompileInputs.cache
+C:\Facultate\C#\semestrul II\OneDrive_1_5-19-2023\Calculator\Calculator\obj\Debug\net7.0-windows\Calculator.genruntimeconfig.cache
+C:\Facultate\C#\semestrul II\OneDrive_1_5-19-2023\Calculator\Calculator\obj\Debug\net7.0-windows\ref\Calculator.dll
+C:\Facultate\C#\git\Cursul-de-joi-C--Calculator\bin\Debug\net7.0-windows\Calculator.exe
+C:\Facultate\C#\git\Cursul-de-joi-C--Calculator\bin\Debug\net7.0-windows\Calculator.deps.json
+C:\Facultate\C#\git\Cursul-de-joi-C--Calculator\bin\Debug\net7.0-windows\Calculator.runtimeconfig.json
+C:\Facultate\C#\git\Cursul-de-joi-C--Calculator\bin\Debug\net7.0-windows\Calculator.dll
+C:\Facultate\C#\git\Cursul-de-joi-C--Calculator\bin\Debug\net7.0-windows\Calculator.pdb
+C:\Facultate\C#\git\Cursul-de-joi-C--Calculator\obj\Debug\net7.0-windows\Calculator.csproj.AssemblyReference.cache
+C:\Facultate\C#\git\Cursul-de-joi-C--Calculator\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Facultate\C#\git\Cursul-de-joi-C--Calculator\obj\Debug\net7.0-windows\App.g.cs
+C:\Facultate\C#\git\Cursul-de-joi-C--Calculator\obj\Debug\net7.0-windows\Calculator_MarkupCompile.cache
+C:\Facultate\C#\git\Cursul-de-joi-C--Calculator\obj\Debug\net7.0-windows\Calculator_MarkupCompile.lref
+C:\Facultate\C#\git\Cursul-de-joi-C--Calculator\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Facultate\C#\git\Cursul-de-joi-C--Calculator\obj\Debug\net7.0-windows\Calculator.g.resources
+C:\Facultate\C#\git\Cursul-de-joi-C--Calculator\obj\Debug\net7.0-windows\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Facultate\C#\git\Cursul-de-joi-C--Calculator\obj\Debug\net7.0-windows\Calculator.AssemblyInfoInputs.cache
+C:\Facultate\C#\git\Cursul-de-joi-C--Calculator\obj\Debug\net7.0-windows\Calculator.AssemblyInfo.cs
+C:\Facultate\C#\git\Cursul-de-joi-C--Calculator\obj\Debug\net7.0-windows\Calculator.csproj.CoreCompileInputs.cache
+C:\Facultate\C#\git\Cursul-de-joi-C--Calculator\obj\Debug\net7.0-windows\Calculator.dll
+C:\Facultate\C#\git\Cursul-de-joi-C--Calculator\obj\Debug\net7.0-windows\refint\Calculator.dll
+C:\Facultate\C#\git\Cursul-de-joi-C--Calculator\obj\Debug\net7.0-windows\Calculator.pdb
+C:\Facultate\C#\git\Cursul-de-joi-C--Calculator\obj\Debug\net7.0-windows\Calculator.genruntimeconfig.cache
+C:\Facultate\C#\git\Cursul-de-joi-C--Calculator\obj\Debug\net7.0-windows\ref\Calculator.dll
