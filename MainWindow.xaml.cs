@@ -60,17 +60,15 @@ namespace Calculator
                 return;
             var operatorString = button.Content as string;               
             double result = 0;
-
             if (Display2.Text.Length!=0)
             {
                 if (Display1.Text.Length == 0)
                 {
                     Display1.Text = Display2.Text;
-                    if(operatorString!= "=") { 
-                    Display1.Text += operatorString;
-                    }
+                        if(operatorString!= "=") { 
+                        Display1.Text += operatorString;
+                        }
                     Display2.Text = "";
-
                 }
                 else {
                     double firstNumber = double.Parse(Display1.Text.Substring(0, Display1.Text.Length - 1));
@@ -89,8 +87,7 @@ namespace Calculator
                             break;
                         case "÷":
                             result = firstNumber / secondNumber;
-                            break;
-                        
+                            break;                        
                     }
                     Display2.Text = "";
                     if (operatorString!="=")
@@ -99,16 +96,11 @@ namespace Calculator
                     {
                         Display1.Text = "";
                         Display2.Text = result.ToString();
-                    }
-                    
+                    }                    
                 }
-                
-                
-
             }
             else
-            {
-                
+            {                
                 Display2.Text = "";
             }
         }
